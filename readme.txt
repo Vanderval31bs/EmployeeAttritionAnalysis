@@ -1,3 +1,5 @@
+**Note:** This project is from an old Machine Learning course at MTM UFSC. While it reflects my work at that time, I've since grown in my understanding and skills. I plan to revisit and update this project in the future.
+
 Problem Statement
 A large company named XYZ, employs, at any given point of time, around 4000 employees. However, every year, around 15% of its employees leave the company and need to be replaced with the talent pool available in the job market. The management believes that this level of attrition (employees leaving, either on their own or because they got fired) is bad for the company, because of the following reasons:
 
