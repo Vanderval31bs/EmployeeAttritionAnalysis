@@ -1,4 +1,4 @@
-**Note:** This project is from an old Machine Learning course at MTM UFSC. While it reflects my work at that time, I've since grown in my understanding and skills. I plan to revisit and update this project in the future.
+**Note:** This project was completed a long time ago during a Machine Learning course at MTM UFSC. While it reflects my work at that time, I've since grown in my understanding and skills. I plan to revisit and update this project in the future.
 
 ## Problem Statement
 
